@@ -1,4 +1,4 @@
-package br.dev.carolbastos.api.medico;
+package br.dev.carolbastos.api.domain.medico;
 
 public enum Especialidade {
     ORTOPEDIA,

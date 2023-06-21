@@ -1,6 +1,6 @@
-package br.dev.carolbastos.api.medico;
+package br.dev.carolbastos.api.domain.medico;
 
-import br.dev.carolbastos.api.endereco.Endereco;
+import br.dev.carolbastos.api.domain.endereco.Endereco;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;

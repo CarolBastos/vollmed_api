@@ -1,4 +1,4 @@
-package br.dev.carolbastos.api.endereco;
+package br.dev.carolbastos.api.domain.endereco;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Pattern;
